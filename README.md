@@ -19,5 +19,4 @@
 
 
 ## 🌐 Connect With Me  
-- 📎 Portfolio Website:
 - 🔗 LinkedIn: https://www.linkedin.com/in/dewminipathirana  
