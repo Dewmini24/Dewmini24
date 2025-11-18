@@ -16,7 +16,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&theme=rose_pine" />
 </p>
-
-
-## 🌐 Connect With Me  
-- 🔗 LinkedIn: https://www.linkedin.com/in/dewminipathirana  
