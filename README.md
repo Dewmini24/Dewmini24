@@ -6,8 +6,7 @@
 - 🎓 2nd-year **Computer Science** student  
 - 💻 Passionate about **Web Development & AI**
 
-- 
-- 
+
 
 ## 🚀 Skills & Tools  
 <p align="left">
