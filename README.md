@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="coding gif" />
 
-### 💜 About Me
+### 💙 About Me
 
 - 🎓 Undergraduate in **Computer Science** at **University of Westminster** via **IIT Sri Lanka**
 - 💻 **Fullstack Developer** from 🇱🇰 Sri Lanka
@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini24&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini24&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dewmini24&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dewmini24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -84,22 +84,14 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dewmini24&theme=radical&hide_border=true&area=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dewmini24/Dewmini24/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dewmini24&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=a855f7&style=flat" />
-  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=a855f7" />
+  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=38bdf8&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=38bdf8" />
 </p>
 
 <p align="center">
