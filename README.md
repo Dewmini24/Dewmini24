@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
