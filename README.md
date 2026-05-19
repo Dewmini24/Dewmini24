@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I%27m+Dewmini+Pathirana+%F0%9F%8C%B8;Fullstack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Computer+Science+%40+UoW+%7C+IIT+%F0%9F%8E%93;Building+beautiful+%26+powerful+apps+%F0%9F%92%AB" alt="Typing SVG" />
+  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="cute girl coding gif" />>
 </div>
 
 <br/>
