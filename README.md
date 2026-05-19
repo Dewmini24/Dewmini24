@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=✨+Hello+World!+I'm+Dewmini+%F0%9F%8C%B8;Fullstack+Developer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;CS+Student+%40+UoW+%7C+IIT+%F0%9F%8E%93;Coding+with+passion+%26+creativity+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I%27m+Dewmini+Pathirana+%F0%9F%8C%B8;Fullstack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Computer+Science+%40+UoW+%7C+IIT+%F0%9F%8E%93;Building+beautiful+%26+powerful+apps+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif" />
 
 ### 🌸 About Me
 
