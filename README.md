@@ -1,5 +1,3 @@
-# Dewmini-Pathirana
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
 </div>
@@ -65,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini2&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -78,7 +76,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewminipathirana&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dewmini24&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -86,7 +84,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewminipathirana&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dewmini24&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
@@ -94,14 +92,14 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dewminipathirana/dewminipathirana/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dewmini24/Dewmini24/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dewminipathirana&label=Profile%20Views&color=a855f7&style=flat" />
-  <img src="https://img.shields.io/github/followers/dewminipathirana?label=Followers&style=flat&color=a855f7" />
+  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=a855f7&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=a855f7" />
 </p>
 
 <p align="center">
