@@ -1,1 +1,109 @@
 # Dewmini-Pathirana
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="coding gif" />
+
+### 💜 About Me
+
+- 🎓 Undergraduate in **Computer Science** at **University of Westminster** via **IIT Sri Lanka**
+- 💻 **Fullstack Developer** from 🇱🇰 Sri Lanka
+- 🌐 I build end-to-end web apps — frontend to backend to database
+- 💬 Ask me about **React, Node.js, PHP, MongoDB, SQL**
+- 🎨 I also love **UI/UX Design** with Figma
+- 🌱 Currently leveling up in **Cloud & System Design**
+- ⚡ Fun fact: I turn coffee ☕ into clean code
+
+<br clear="right"/>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dewmini-pathirana-28558a332/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dewminipathirana04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&perline=10" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python&perline=10" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=10" />
+</p>
+
+**Design & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,github,git&perline=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dewmini2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmini2&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini24&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dewminipathirana&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewminipathirana&theme=redical&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dewminipathirana/dewminipathirana/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dewminipathirana&label=Profile%20Views&color=a855f7&style=flat" />
+  <img src="https://img.shields.io/github/followers/dewminipathirana?label=Followers&style=flat&color=a855f7" />
+</p>
+
+<p align="center">
+  <i>✨ Star my repos if you find them useful! ✨</i>
+</p>
