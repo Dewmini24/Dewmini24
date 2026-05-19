@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dewmini+Pathirana;Fullstack+Developer+from+Sri+Lanka;Computer+Science+%40+UoW+%7C+IIT;Building+beautiful+%26+powerful+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=✨+Hello+World!+I'm+Dewmini+%F0%9F%8C%B8;Fullstack+Developer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;CS+Student+%40+UoW+%7C+IIT+%F0%9F%8E%93;Coding+with+passion+%26+creativity+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="coding gif" />
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif" />
 
-### 💙 About Me
+### 🌸 About Me
 
 - 🎓 Undergraduate in **Computer Science** at **University of Westminster** via **IIT Sri Lanka**
 - 💻 **Fullstack Developer** from 🇱🇰 Sri Lanka
@@ -63,11 +63,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://readme-stats.clckblog.space/api?username=Dewmini24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Dewmini24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini24&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -90,10 +85,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=38bdf8&style=flat" />
-  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=38bdf8" />
+  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=1e3a5f&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=1e3a5f" />
 </p>
 
 <p align="center">
-  <i>✨ Star my repos if you find them useful! ✨</i>
+  <i>🌸 Thanks for visiting! Have a wonderful day ✨</i>
 </p>
