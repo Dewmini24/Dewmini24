@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" src="./girl-coding.svg" width="250" alt="coding gif" />
+<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="250" alt="coding gif" />
 
 ### 🌸 About Me
 
@@ -90,7 +90,5 @@
 </p>
 
 <p align="center">
-  <i>🌸 Thanks for visiting! Have a wonderful day ✨</i>
-</p>
   <i>🌸 Thanks for visiting! Have a wonderful day ✨</i>
 </p>
