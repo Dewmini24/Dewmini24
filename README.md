@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I%27m+Dewmini+Pathirana+%F0%9F%8C%B8;Fullstack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Computer+Science+%40+UoW+%7C+IIT+%F0%9F%8E%93;Building+beautiful+%26+powerful+apps+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
+
 <br/>
-<img align="right" src="https://raw.githubusercontent.com/Dewmini24/Dewmini24/main/coding.svg" width="300" alt="coding illustration" />
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="coding gif" />
 
 ### 🌸 About Me
 
@@ -83,8 +85,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=1e3a5f&style=flat" />
-  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=1e3a5f" />
+  <img src="https://komarev.com/ghpvc/?username=Dewmini24&label=Profile%20Views&color=1e90ff&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dewmini24?label=Followers&style=flat&color=1e90ff" />
 </p>
 
 <p align="center">
